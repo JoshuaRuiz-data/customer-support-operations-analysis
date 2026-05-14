@@ -139,16 +139,16 @@ customer-support-operations-analysis
 ## Dashboard Preview
 
 ### Operations Overview
-![Operations Overview](images/Customer satisfaction.PNG)
+![Operations Overview](images/Operations_Overview.PNG)
 
 ### Customer Satisfaction Analysis
-![Customer Satisfaction Analysis](images/customer_satisfaction.png)
+![Customer Satisfaction Analysis](images/Customer_satisfaction.PNG)
 
 ### Ticket Analysis
-![Ticket Analysis](images/ticket_analysis.png)
+![Ticket Analysis](images/Ticket_Analysis.PNG)
 
 ### SQL Analysis
-![SQL Analysis](images/sql_analysis.png)
+![SQL Analysis](images/sql_analysis.PNG)
 
 ---
 
