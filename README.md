@@ -1,5 +1,9 @@
 # Customer Support Operations Analytics
 
+Operational analytics dashboard built with SQL Server, Power BI, Excel, and DAX.
+
+---
+
 ## Overview
 
 This project analyzes customer support operations data to evaluate ticket trends, customer satisfaction, operational efficiency, and support performance metrics.
@@ -107,8 +111,49 @@ Provides deeper operational insights including:
 
 ---
 
+## Repository Structure
+
+```text
+customer-support-operations-analysis
+│
+├── data
+│   └── customer_support_operations.csv
+│
+├── dashboard
+│   └── CustomerSupportDashboard.pbix
+│
+├── images
+│   ├── operations_overview.png
+│   ├── customer_satisfaction.png
+│   ├── ticket_analysis.png
+│   └── sql_analysis.png
+│
+├── sql
+│   └── business_queries.sql
+│
+└── README.md
+```
+
+---
+
+## Dashboard Preview
+
+### Operations Overview
+![Operations Overview](images/Operations_Overview.png)
+
+### Customer Satisfaction Analysis
+![Customer Satisfaction Analysis](images/Customer_Satisfaction.png)
+
+### Ticket Analysis
+![Ticket Analysis](images/Ticket_Analysis.png)
+
+### SQL Analysis
+![SQL Analysis](images/sql_analysis.png)
+
+---
+
 ## Author
 
-Joshua Ruiz
+Joshua Ruiz Ulate
 
-Aspiring Data Analyst focused on Excel, SQL, Power BI, Tableau and business intelligence analytics.
+Aspiring Data Analyst focused on Excel, SQL, Power BI, and business intelligence analytics.
