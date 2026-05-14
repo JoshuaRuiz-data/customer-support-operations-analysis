@@ -139,7 +139,7 @@ customer-support-operations-analysis
 ## Dashboard Preview
 
 ### Operations Overview
-![Operations Overview](images/operations_overview.png)
+![Operations Overview](images/Customer satisfaction.PNG)
 
 ### Customer Satisfaction Analysis
 ![Customer Satisfaction Analysis](images/customer_satisfaction.png)
